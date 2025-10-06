@@ -4,7 +4,7 @@
 
 Este projeto analisou dados de performance de alunos de uma escola na disciplina de matemática a pedido do time pedagógico. O objetivo da análise foi verificar se a implementação de um curso preparatório poderia melhorar o desempenho dos alunos nas avaliações de matemática. Para coletar dados para análise, o curso preparatório foi disponibilizado gratuitamente para uma amostra de alunos. Com base na análise estatística dos resultados do teste, foi possível prover informações para subsidiar o negócio na decisão de expandir o curso preparatório para todos os alunos da escola.
 
-A análise realizada permitiu verificar que a implementação do curso preparatório geraria um aumento entre 3,69 e 7,55 pontos na média de notas; um aumento entre 6,7 e 18,3 pontos percentuais no percentual de aprovações em matemática; e um aumento entre 14,2% e 14,7% no lucro da escola. Assim, recomendou-se a implementação do curso preparatório na escola.
+A análise realizada permitiu estimar que a implementação do curso preparatório geraria um aumento entre 3,69 e 7,55 pontos na média de notas; um aumento entre 6,7 e 18,3 pontos percentuais no percentual de aprovações em matemática; e um aumento entre 14,2% e 14,7% no lucro da escola. Assim, recomendou-se a implementação do curso preparatório na escola.
 
 Os produtos da análise foram uma apresentação de negócios com os principais insights obtidos e um notebook comentado em Python contendo toda a análise estatística e de custo-benefício realizada.
 
@@ -109,7 +109,7 @@ Assim, cabe ao negócio decidir se um aumento em pontos percentuais mais próxim
 
 **Estimativa do custo-benefício da expansão do curso preparatório:**
 
-Espera-se um aumento no lucro da escola considerando a expansão do curso preparatório entre 14,2% e 14,7%.
+Estima-se um aumento no lucro da escola considerando a expansão do curso preparatório entre 14,2% e 14,7%.
 
 Mesmo considerando o cenário pessimista, o aumento no lucro ainda é significativo. Ainda, o aumento no lucro não é tão diferente considerando os três cenários testados. Logo, mesmo que o aumento no percentual de aprovação fique abaixo dos 10 pontos percentuais almejados pelo negócio, o aumento no lucro compensa a expansão do curso preparatório.
 
@@ -119,12 +119,12 @@ Foi solicitada uma análise do impacto da implementação de um curso preparató
 
 Para verificação da diferença entre as médias de notas e percentual de aprovação dos alunos que realizaram e que não realizaram o curso, foram realizados testes de hipóteses. Os testes comprovaram estatísticamente, que a média de notas e percentual de aprovação são maiores para os alunos que realizaram o curso preparatório. No entando, o cálculo do intervalo de confiança para a média e percentual de aprovação demonstrou que o aumento pode estar abaixo do "ganho mínimo" almejado pelo negócio.
 
-Apesar disso, a análise de viabilidade financeira demonstrou que, mesmo no cenário pessimista para o tamanho do aumento do percentual de aprovação, o lucro da escola com a implementação do curso ainda seria significativo (14,2%).
+Apesar disso, a análise de viabilidade financeira demonstrou que, mesmo no cenário pessimista para o tamanho do aumento do percentual de aprovação, o lucro estimado da escola com a implementação do curso ainda seria significativo (14,2%).
 
 **Impacto do curso preparatório**:
-- **Aumento** na média de notas de matemática entre 3,69 e 7,55 pontos.
-- **Aumento** no percentual de aprovações em matemática entre 6,7 e 18,3 pontos percentuais.
-- **Aumento** no lucro da escola entre 14,2% e 14,7%.
+- **Aumento** estimado na média de notas de matemática entre 3,69 e 7,55 pontos.
+- **Aumento** estimado no percentual de aprovações em matemática entre 6,7 e 18,3 pontos percentuais.
+- **Aumento** estimado no lucro da escola entre 14,2% e 14,7%.
 
 **Recomendações**:
 - **Expandir o curso preparatório** para todos os alunos, considerando tanto a evidência de impacto positivo nas notas e aprovações, quanto o aumento no lucro da escola.
