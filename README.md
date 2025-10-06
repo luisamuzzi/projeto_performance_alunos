@@ -8,7 +8,7 @@ A análise realizada permitiu verificar que a implementação do curso preparat�
 
 Os produtos da análise foram uma apresentação de negócios com os principais insights obtidos e um notebook comentado em Python contendo toda a análise estatística e de custo-benefício realizada.
 
-[Apresentação - Performance alunos]()
+[Apresentação - Performance alunos](https://www.canva.com/design/DAG1C53mKJs/tK74HCPB8PS5KR1dNPMP3w/view?utm_content=DAG1C53mKJs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7441bc1948)
 
 Leia mais sobre o projeto abaixo.
 
@@ -85,7 +85,7 @@ O projeto foi desenvolvido por meio de análises estatísticas, considerando-se 
 
 Apresentação de negócios com os principais insights sobre a implementação do curso preparatório tanto do ponto de vista pedagógico (aumento de notas e aprovações) quanto financeiro (aumento do lucro da escola). Notebook com análise completa dos dados.
         
-1. [Apresentação - Performance alunos]().
+1. [Apresentação - Performance alunos](https://www.canva.com/design/DAG1C53mKJs/tK74HCPB8PS5KR1dNPMP3w/view?utm_content=DAG1C53mKJs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7441bc1948).
     
 2. [Notebook](performance_alunos.ipynb) contendo a análise completa dos dados.
 
