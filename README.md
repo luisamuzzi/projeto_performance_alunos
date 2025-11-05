@@ -1,4 +1,4 @@
-# **Projeto Análise Estatística da Performance de Alunos**
+# **Análise Estatística da Performance de Alunos**
 
 ### Resumo
 
